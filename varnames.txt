@@ -1,0 +1,9 @@
+
+Server > Name: AHBv, Value: inventoryClass, Type: String
+Server > Name: pD, Value: tutorialState, Type: Int32
+Server > Name: aAddI, Value: ik, Type: Int32
+Server > Name: FRPDs0, Value: spots, Type: Array
+Server > Name: FPDs0, Value: spots, Type: Array
+Server > Name: FPDs1, Value: spots, Type: Array
+Server > Name: FPDs2, Value: spots, Type: Array
+Client > Name: pM, Value: , Type: Boolean

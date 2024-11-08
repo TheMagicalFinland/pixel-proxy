@@ -1,0 +1,414 @@
+------------- JOINING WORLD (THEBLACKTOWER) -------------
+
+(Part of TTjW)
+Parent: 
+Key: JR
+Value: Int32
+
+(Part of TTjW)
+Parent: 
+Key: WN
+Value: String
+
+(Part of TTjW)
+Parent: 
+Key: WB
+Value: Int32
+
+-- New ID --
+ID name: CQp
+
+(Part of CQp)
+Parent: 
+Key: S
+Value: Boolean
+
+(Part of CQp)
+Parent: 
+Key: QuestPhase
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: rOP
+
+-- New ID --
+ID name: rAI
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: WREU
+
+(Part of WREU)
+Parent: 
+Key: WRET
+Value: Int32
+
+(Part of WREU)
+Parent: 
+Key: WRESS
+Value: Boolean
+
+-- New ID --
+ID name: WREU
+
+(Part of WREU)
+Parent: 
+Key: WRET
+Value: Int32
+
+(Part of WREU)
+Parent: 
+Key: WREVU
+Value: Array
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: QP
+
+-- New ID --
+ID name: WREU
+
+(Part of WREU)
+Parent: 
+Key: WRET
+Value: Int32
+
+(Part of WREU)
+Parent: 
+Key: WREVU
+Value: Array
+
+-- New ID --
+ID name: p
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+-- New ID --
+ID name: UD
+
+(Part of UD)
+Parent: 
+Key: U
+Value: String
+
+(Part of UD)
+Parent: 
+Key: DBl
+Value: Int32
+
+(Part of UD)
+Parent: 
+Key: Mp1X
+Value: Int32
+
+(Part of UD)
+Parent: 
+Key: Mp1Y
+Value: Int32
+
+(Part of UD)
+Parent: 
+Key: x
+Value: Int32
+
+(Part of UD)
+Parent: 
+Key: y
+Value: Int32
+
+-- New ID --
+ID name: ST
+
+(Part of ST)
+Parent: 
+Key: STime
+Value: Int64
+
+(Part of ST)
+Parent: 
+Key: SSlp
+Value: Int32
+
+------------- JOINING WORLD (HALLOWEENCASTLE) -------------
+
+(Part of TTjW)
+Parent: 
+Key: JR
+Value: Int32
+
+(Part of TTjW)
+Parent: 
+Key: WN
+Value: String
+
+(Part of TTjW)
+Parent: 
+Key: WB
+Value: Int32
+
+-- New ID --
+ID name: rOP
+
+-- New ID --
+ID name: rAI
+
+-- New ID --
+ID name: PPA
+
+(Part of PPA)
+Parent: 
+Key: audioType
+Value: Int32
+
+(Part of PPA)
+Parent: 
+Key: audioBlockType
+Value: Int32
+
+(Part of PPA)
+Parent: 
+Key: U
+Value: String
+
+-- New ID --
+ID name: PPA
+
+(Part of PPA)
+Parent: 
+Key: audioType
+Value: Int32
+
+(Part of PPA)
+Parent: 
+Key: audioBlockType
+Value: Int32
+
+(Part of PPA)
+Parent: 
+Key: U
+Value: String
+
+-- New ID --
+ID name: PPA
+
+(Part of PPA)
+Parent: 
+Key: audioType
+Value: Int32
